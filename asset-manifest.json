@@ -1,6 +1,6 @@
 {
   "common.css": "/resources/hgs-7e79ba3707775f6547f8.css",
-  "common.js": "/static/js/hgsd-873-412eb60b71ba66a07230.js",
+  "common.js": "/resources/static/js/hgsd-873-412eb60b71ba66a07230.js",
   "main.css": "/resources/hgs-412eb60b71ba66a07230.css",
-  "renegade.js": "/static/js/hgsd-main-7e79ba3707775f6547f8.js"
+  "renegade.js": "/resources/static/js/hgsd-main-7e79ba3707775f6547f8.js"
 }
